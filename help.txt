@@ -1,0 +1,15 @@
+How to create a quiz?
+step-1: create a notepad with chapter name in this folder
+step-2: enter each question along with options in a single line as follows:
+question$option1$option2$option3$option4$correct-option
+eg: who is the father of our nation?$Gandhiji$Nehru$me$you$1
+In case of images just add @ infront of image name.
+For eg:
+Identify the person in the picture @Obama.jpg$Gandhiji$Nehruji$Obama$Modi$3
+or
+Identify obama in the following pictures$Modi.jpg$Gandhi.jpg$Mandela.jpg$Obama.jpg$4
+step-3: double click on operation.exe file
+step-4: enter notepad name.
+step-5: A folder with chapter name will be created along with questions.
+step-6: Copy all the images involved in questions into that folder.
+step-7: Enjoy the quiz.....
